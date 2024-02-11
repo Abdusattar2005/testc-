@@ -1,0 +1,12 @@
+/home/abdusattar/Desktop/RiderProjects1/Console7-1/Console7-1/bin/Debug/Console7_1.exe
+/home/abdusattar/Desktop/RiderProjects1/Console7-1/Console7-1/bin/Debug/Console7_1.pdb
+/home/abdusattar/Desktop/RiderProjects1/Console7-1/Console7-1/obj/Debug/Console7-1.csproj.AssemblyReference.cache
+/home/abdusattar/Desktop/RiderProjects1/Console7-1/Console7-1/obj/Debug/Console7-1.csproj.CoreCompileInputs.cache
+/home/abdusattar/Desktop/RiderProjects1/Console7-1/Console7-1/obj/Debug/Console7_1.exe
+/home/abdusattar/Desktop/RiderProjects1/Console7-1/Console7-1/obj/Debug/Console7_1.pdb
+/home/abdusattar/Desktop/Rider_Projects/Console8/Console7-1/bin/Debug/Console7_1.exe
+/home/abdusattar/Desktop/Rider_Projects/Console8/Console7-1/bin/Debug/Console7_1.pdb
+/home/abdusattar/Desktop/Rider_Projects/Console8/Console7-1/obj/Debug/Console7-1.csproj.AssemblyReference.cache
+/home/abdusattar/Desktop/Rider_Projects/Console8/Console7-1/obj/Debug/Console7-1.csproj.CoreCompileInputs.cache
+/home/abdusattar/Desktop/Rider_Projects/Console8/Console7-1/obj/Debug/Console7_1.exe
+/home/abdusattar/Desktop/Rider_Projects/Console8/Console7-1/obj/Debug/Console7_1.pdb

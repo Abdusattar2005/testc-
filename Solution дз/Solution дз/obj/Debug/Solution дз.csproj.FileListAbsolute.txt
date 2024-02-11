@@ -1,0 +1,12 @@
+/home/abdusattar/RiderProjects/Solution дз/Solution дз/bin/Debug/Solution_дз.exe
+/home/abdusattar/RiderProjects/Solution дз/Solution дз/bin/Debug/Solution_дз.pdb
+/home/abdusattar/RiderProjects/Solution дз/Solution дз/obj/Debug/Solution дз.csproj.AssemblyReference.cache
+/home/abdusattar/RiderProjects/Solution дз/Solution дз/obj/Debug/Solution дз.csproj.CoreCompileInputs.cache
+/home/abdusattar/RiderProjects/Solution дз/Solution дз/obj/Debug/Solution_дз.exe
+/home/abdusattar/RiderProjects/Solution дз/Solution дз/obj/Debug/Solution_дз.pdb
+/home/abdusattar/Desktop/RiderProjects1/Solution дз/Solution дз/bin/Debug/Solution_дз.exe
+/home/abdusattar/Desktop/RiderProjects1/Solution дз/Solution дз/bin/Debug/Solution_дз.pdb
+/home/abdusattar/Desktop/RiderProjects1/Solution дз/Solution дз/obj/Debug/Solution дз.csproj.AssemblyReference.cache
+/home/abdusattar/Desktop/RiderProjects1/Solution дз/Solution дз/obj/Debug/Solution дз.csproj.CoreCompileInputs.cache
+/home/abdusattar/Desktop/RiderProjects1/Solution дз/Solution дз/obj/Debug/Solution_дз.exe
+/home/abdusattar/Desktop/RiderProjects1/Solution дз/Solution дз/obj/Debug/Solution_дз.pdb

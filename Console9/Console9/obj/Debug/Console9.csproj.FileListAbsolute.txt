@@ -1,0 +1,6 @@
+/home/abdusattar/Desktop/Rider_Projects/Console9/Console9/bin/Debug/Console9.exe
+/home/abdusattar/Desktop/Rider_Projects/Console9/Console9/bin/Debug/Console9.pdb
+/home/abdusattar/Desktop/Rider_Projects/Console9/Console9/obj/Debug/Console9.csproj.AssemblyReference.cache
+/home/abdusattar/Desktop/Rider_Projects/Console9/Console9/obj/Debug/Console9.csproj.CoreCompileInputs.cache
+/home/abdusattar/Desktop/Rider_Projects/Console9/Console9/obj/Debug/Console9.exe
+/home/abdusattar/Desktop/Rider_Projects/Console9/Console9/obj/Debug/Console9.pdb

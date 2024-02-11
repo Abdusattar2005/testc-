@@ -1,0 +1,12 @@
+/home/abdusattar/RiderProjects/Solution1/ConsoleApplication1/obj/Debug/ConsoleApplication1.csproj.AssemblyReference.cache
+/home/abdusattar/RiderProjects/Solution1/ConsoleApplication1/obj/Debug/ConsoleApplication1.csproj.CoreCompileInputs.cache
+/home/abdusattar/RiderProjects/Solution1/ConsoleApplication1/bin/Debug/ConsoleApplication1.exe
+/home/abdusattar/RiderProjects/Solution1/ConsoleApplication1/bin/Debug/ConsoleApplication1.pdb
+/home/abdusattar/RiderProjects/Solution1/ConsoleApplication1/obj/Debug/ConsoleApplication1.exe
+/home/abdusattar/RiderProjects/Solution1/ConsoleApplication1/obj/Debug/ConsoleApplication1.pdb
+/home/abdusattar/Desktop/RiderProjects1/Solution1/ConsoleApplication1/bin/Debug/ConsoleApplication1.exe
+/home/abdusattar/Desktop/RiderProjects1/Solution1/ConsoleApplication1/bin/Debug/ConsoleApplication1.pdb
+/home/abdusattar/Desktop/RiderProjects1/Solution1/ConsoleApplication1/obj/Debug/ConsoleApplication1.csproj.AssemblyReference.cache
+/home/abdusattar/Desktop/RiderProjects1/Solution1/ConsoleApplication1/obj/Debug/ConsoleApplication1.csproj.CoreCompileInputs.cache
+/home/abdusattar/Desktop/RiderProjects1/Solution1/ConsoleApplication1/obj/Debug/ConsoleApplication1.exe
+/home/abdusattar/Desktop/RiderProjects1/Solution1/ConsoleApplication1/obj/Debug/ConsoleApplication1.pdb

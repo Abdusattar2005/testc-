@@ -1,0 +1,12 @@
+/home/abdusattar/Desktop/RiderProjects1/Console6/Console6/bin/Debug/Console6.exe
+/home/abdusattar/Desktop/RiderProjects1/Console6/Console6/bin/Debug/Console6.pdb
+/home/abdusattar/Desktop/RiderProjects1/Console6/Console6/obj/Debug/Console6.csproj.AssemblyReference.cache
+/home/abdusattar/Desktop/RiderProjects1/Console6/Console6/obj/Debug/Console6.csproj.CoreCompileInputs.cache
+/home/abdusattar/Desktop/RiderProjects1/Console6/Console6/obj/Debug/Console6.exe
+/home/abdusattar/Desktop/RiderProjects1/Console6/Console6/obj/Debug/Console6.pdb
+/home/abdusattar/Desktop/Rider_Projects/Console6/Console6/bin/Debug/Console6.exe
+/home/abdusattar/Desktop/Rider_Projects/Console6/Console6/bin/Debug/Console6.pdb
+/home/abdusattar/Desktop/Rider_Projects/Console6/Console6/obj/Debug/Console6.csproj.AssemblyReference.cache
+/home/abdusattar/Desktop/Rider_Projects/Console6/Console6/obj/Debug/Console6.csproj.CoreCompileInputs.cache
+/home/abdusattar/Desktop/Rider_Projects/Console6/Console6/obj/Debug/Console6.exe
+/home/abdusattar/Desktop/Rider_Projects/Console6/Console6/obj/Debug/Console6.pdb
