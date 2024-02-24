@@ -7,39 +7,64 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="55f497e2-0c4f-4a8d-a493-d826cf13d637" name="Changes" comment="" />
+    <list default="true" id="55f497e2-0c4f-4a8d-a493-d826cf13d637" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../Console9-1/.idea/.idea.Console9-1/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Console9-1/.idea/.idea.Console9-1/.idea/indexLayout.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Console9-1/Console9-1.sln" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Console9-1/Console9-1/Console9-1.csproj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Console9-1/Console9-1/Program.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Console9-1/Console9-1/Properties/AssemblyInfo.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Console9-1/Console9-1/bin/Debug/Console9_1.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Console9-1/Console9-1/bin/Debug/Console9_1.pdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Console9-1/Console9-1/obj/Debug/.NETFramework,Version=v4.8.AssemblyAttributes.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Console9-1/Console9-1/obj/Debug/Console9-1.csproj.AssemblyReference.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Console9-1/Console9-1/obj/Debug/Console9-1.csproj.CoreCompileInputs.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Console9-1/Console9-1/obj/Debug/Console9-1.csproj.FileListAbsolute.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Console9-1/Console9-1/obj/Debug/Console9_1.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Console9-1/Console9-1/obj/Debug/Console9_1.pdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.ConsoleРабочий/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.ConsoleРабочий/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ConsoleРабочий/ConsoleРабочий.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/ConsoleРабочий/ConsoleРабочий.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ConsoleРабочий/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/ConsoleРабочий/Program.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ConsoleРабочий/Properties/AssemblyInfo.cs" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 8
-}]]></component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
   <component name="ProjectId" id="2cBC7BAjt54egjqrbVuSRT3n06d" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;.NET Project.ConsoleРабочий.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/home/abdusattar/Desktop/Rider_Projects/ConsoleРабочий&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   },
-  "keyToStringList": {
-    "rider.external.source.directories": [
-      "/home/abdusattar/.config/JetBrains/Rider2023.3/resharper-host/DecompilerCache",
-      "/home/abdusattar/.config/JetBrains/Rider2023.3/resharper-host/SourcesCache",
-      "/home/abdusattar/.local/share/Symbols/src"
+  &quot;keyToStringList&quot;: {
+    &quot;rider.external.source.directories&quot;: [
+      &quot;/home/abdusattar/.config/JetBrains/Rider2023.3/resharper-host/DecompilerCache&quot;,
+      &quot;/home/abdusattar/.config/JetBrains/Rider2023.3/resharper-host/SourcesCache&quot;,
+      &quot;/home/abdusattar/.local/share/Symbols/src&quot;
     ]
   }
-}]]></component>
+}</component>
   <component name="RunManager">
     <configuration name="ConsoleРабочий" type="DotNetProject" factoryName=".NET Project">
       <option name="EXE_PATH" value="" />
@@ -69,6 +94,11 @@
       <option name="presentableId" value="Default" />
       <updated>1707575414434</updated>
       <workItem from="1707575415495" duration="674000" />
+      <workItem from="1707832198771" duration="1213000" />
+      <workItem from="1708434109103" duration="1349000" />
+      <workItem from="1708437251971" duration="146000" />
+      <workItem from="1708607967679" duration="1520000" />
+      <workItem from="1708610538323" duration="1302000" />
     </task>
     <servers />
   </component>

@@ -1,0 +1,6 @@
+/home/abdusattar/Desktop/Rider_Projects/ConsoleЭкзамен 2/ConsoleЭкзамен 2/bin/Debug/ConsoleЭкзамен_2.exe
+/home/abdusattar/Desktop/Rider_Projects/ConsoleЭкзамен 2/ConsoleЭкзамен 2/bin/Debug/ConsoleЭкзамен_2.pdb
+/home/abdusattar/Desktop/Rider_Projects/ConsoleЭкзамен 2/ConsoleЭкзамен 2/obj/Debug/ConsoleЭкзамен 2.csproj.AssemblyReference.cache
+/home/abdusattar/Desktop/Rider_Projects/ConsoleЭкзамен 2/ConsoleЭкзамен 2/obj/Debug/ConsoleЭкзамен 2.csproj.CoreCompileInputs.cache
+/home/abdusattar/Desktop/Rider_Projects/ConsoleЭкзамен 2/ConsoleЭкзамен 2/obj/Debug/ConsoleЭкзамен_2.exe
+/home/abdusattar/Desktop/Rider_Projects/ConsoleЭкзамен 2/ConsoleЭкзамен 2/obj/Debug/ConsoleЭкзамен_2.pdb

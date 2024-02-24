@@ -1,9 +1,12 @@
-﻿namespace ConsoleРабочий
+﻿using System;
+
+class Program
 {
-    internal class Program
+    static void Main()
     {
-        public static void Main(string[] args)
-        {
-        }
+        int[] array = new int[3];
+        int index = 3;
+        Console.Write(array[index]);
+
     }
 }

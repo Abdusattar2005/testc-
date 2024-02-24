@@ -5,11 +5,11 @@
     <PropertyGroup>
         <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
         <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-        <ProjectGuid>{C604178B-1F00-43D6-9572-435E3F5BB4B4}</ProjectGuid>
+        <ProjectGuid>{716BAB33-8782-41A3-905A-EE1584A0D7F6}</ProjectGuid>
         <OutputType>Exe</OutputType>
         <AppDesignerFolder>Properties</AppDesignerFolder>
-        <RootNamespace>ConsoleРабочий</RootNamespace>
-        <AssemblyName>ConsoleРабочий</AssemblyName>
+        <RootNamespace>ConsoleЭкзамен</RootNamespace>
+        <AssemblyName>ConsoleЭкзамен</AssemblyName>
         <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
         <FileAlignment>512</FileAlignment>
         <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -41,9 +41,7 @@
     </ItemGroup>
     <ItemGroup>
         <Compile Include="Program.cs"/>
-    </ItemGroup>
-    <ItemGroup>
-      <Folder Include="Properties\" />
+        <Compile Include="Properties\AssemblyInfo.cs"/>
     </ItemGroup>
     <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets"/>
     <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 

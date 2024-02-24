@@ -1,0 +1,6 @@
+/home/abdusattar/Desktop/Rider_Projects/ConsoleРабочий/ConsoleРабочий/bin/Debug/ConsoleРабочий.exe
+/home/abdusattar/Desktop/Rider_Projects/ConsoleРабочий/ConsoleРабочий/bin/Debug/ConsoleРабочий.pdb
+/home/abdusattar/Desktop/Rider_Projects/ConsoleРабочий/ConsoleРабочий/obj/Debug/ConsoleРабочий.csproj.AssemblyReference.cache
+/home/abdusattar/Desktop/Rider_Projects/ConsoleРабочий/ConsoleРабочий/obj/Debug/ConsoleРабочий.csproj.CoreCompileInputs.cache
+/home/abdusattar/Desktop/Rider_Projects/ConsoleРабочий/ConsoleРабочий/obj/Debug/ConsoleРабочий.exe
+/home/abdusattar/Desktop/Rider_Projects/ConsoleРабочий/ConsoleРабочий/obj/Debug/ConsoleРабочий.pdb
