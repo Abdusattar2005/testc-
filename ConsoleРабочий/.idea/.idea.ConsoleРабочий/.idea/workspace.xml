@@ -8,24 +8,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="55f497e2-0c4f-4a8d-a493-d826cf13d637" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/../Console9-1/.idea/.idea.Console9-1/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Console9-1/.idea/.idea.Console9-1/.idea/indexLayout.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Console9-1/Console9-1.sln" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Console9-1/Console9-1/Console9-1.csproj" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Console9-1/Console9-1/Program.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Console9-1/Console9-1/Properties/AssemblyInfo.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Console9-1/Console9-1/bin/Debug/Console9_1.exe" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Console9-1/Console9-1/bin/Debug/Console9_1.pdb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Console9-1/Console9-1/obj/Debug/.NETFramework,Version=v4.8.AssemblyAttributes.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Console9-1/Console9-1/obj/Debug/Console9-1.csproj.AssemblyReference.cache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Console9-1/Console9-1/obj/Debug/Console9-1.csproj.CoreCompileInputs.cache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Console9-1/Console9-1/obj/Debug/Console9-1.csproj.FileListAbsolute.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Console9-1/Console9-1/obj/Debug/Console9_1.exe" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Console9-1/Console9-1/obj/Debug/Console9_1.pdb" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.ConsoleРабочий/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.ConsoleРабочий/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ConsoleРабочий/ConsoleРабочий.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/ConsoleРабочий/ConsoleРабочий.csproj" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ConsoleРабочий/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/ConsoleРабочий/Program.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ConsoleРабочий/Properties/AssemblyInfo.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ConsoleРабочий/bin/Debug/ConsoleРабочий.exe" beforeDir="false" afterPath="$PROJECT_DIR$/ConsoleРабочий/bin/Debug/ConsoleРабочий.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ConsoleРабочий/bin/Debug/ConsoleРабочий.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/ConsoleРабочий/bin/Debug/ConsoleРабочий.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ConsoleРабочий/obj/Debug/ConsoleРабочий.exe" beforeDir="false" afterPath="$PROJECT_DIR$/ConsoleРабочий/obj/Debug/ConsoleРабочий.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ConsoleРабочий/obj/Debug/ConsoleРабочий.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/ConsoleРабочий/obj/Debug/ConsoleРабочий.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ConsoleЭкзамен 2/ConsoleЭкзамен 2/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../ConsoleЭкзамен 2/ConsoleЭкзамен 2/Program.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ConsoleЭкзамен 2/ConsoleЭкзамен 2/bin/Debug/ConsoleЭкзамен_2.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../ConsoleЭкзамен 2/ConsoleЭкзамен 2/bin/Debug/ConsoleЭкзамен_2.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ConsoleЭкзамен 2/ConsoleЭкзамен 2/bin/Debug/ConsoleЭкзамен_2.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../ConsoleЭкзамен 2/ConsoleЭкзамен 2/bin/Debug/ConsoleЭкзамен_2.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ConsoleЭкзамен 2/ConsoleЭкзамен 2/obj/Debug/ConsoleЭкзамен_2.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../ConsoleЭкзамен 2/ConsoleЭкзамен 2/obj/Debug/ConsoleЭкзамен_2.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ConsoleЭкзамен 2/ConsoleЭкзамен 2/obj/Debug/ConsoleЭкзамен_2.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../ConsoleЭкзамен 2/ConsoleЭкзамен 2/obj/Debug/ConsoleЭкзамен_2.pdb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -99,6 +92,11 @@
       <workItem from="1708437251971" duration="146000" />
       <workItem from="1708607967679" duration="1520000" />
       <workItem from="1708610538323" duration="1302000" />
+      <workItem from="1708782800800" duration="854000" />
+      <workItem from="1709041201304" duration="624000" />
+      <workItem from="1709207490204" duration="17000" />
+      <workItem from="1709312926003" duration="361000" />
+      <workItem from="1709387682378" duration="2165000" />
     </task>
     <servers />
   </component>

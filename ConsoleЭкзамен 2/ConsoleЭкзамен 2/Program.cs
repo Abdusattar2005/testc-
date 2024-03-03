@@ -1,30 +1,10 @@
 ﻿using System;
+using System.Linq;
 
-namespace Abdusattar
+class Program
 {
-    internal class Program
+    static void Main()
     {
-        public static void Main(string[] args)
-        {
-            Console.Write("Введите ваше имя: ");
-            string имя = Console.ReadLine();
-
-            if (имя.ToLower() == "албина")
-                
-                
-                
-                
-                
-                
-                
-            {
-                Console.WriteLine("Привет, АЛЬБИНА " +
-                                  "не переживай все решим.");
-            }
-            else
-            {
-                Console.WriteLine($"Привет, {имя}! Добро пожаловать!");
-            }
-        }
+        
     }
 }

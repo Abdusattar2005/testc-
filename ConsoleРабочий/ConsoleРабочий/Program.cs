@@ -4,9 +4,19 @@ class Program
 {
     static void Main()
     {
-        int[] array = new int[3];
-        int index = 3;
-        Console.Write(array[index]);
+        int a = 5;
 
+        Ahalaimahalai(a);
+        Console.WriteLine(a);
+
+        void Ahalaimahalai(int namber)
+        {
+            /*...*/
+            namber = 10;
+                /*...*/
+                namber++;
+        }
+            
     }
 }
+        
