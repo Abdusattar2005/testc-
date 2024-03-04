@@ -14,11 +14,6 @@
       <change beforePath="$PROJECT_DIR$/ConsoleРабочий/bin/Debug/ConsoleРабочий.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/ConsoleРабочий/bin/Debug/ConsoleРабочий.pdb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ConsoleРабочий/obj/Debug/ConsoleРабочий.exe" beforeDir="false" afterPath="$PROJECT_DIR$/ConsoleРабочий/obj/Debug/ConsoleРабочий.exe" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ConsoleРабочий/obj/Debug/ConsoleРабочий.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/ConsoleРабочий/obj/Debug/ConsoleРабочий.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ConsoleЭкзамен 2/ConsoleЭкзамен 2/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../ConsoleЭкзамен 2/ConsoleЭкзамен 2/Program.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ConsoleЭкзамен 2/ConsoleЭкзамен 2/bin/Debug/ConsoleЭкзамен_2.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../ConsoleЭкзамен 2/ConsoleЭкзамен 2/bin/Debug/ConsoleЭкзамен_2.exe" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ConsoleЭкзамен 2/ConsoleЭкзамен 2/bin/Debug/ConsoleЭкзамен_2.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../ConsoleЭкзамен 2/ConsoleЭкзамен 2/bin/Debug/ConsoleЭкзамен_2.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ConsoleЭкзамен 2/ConsoleЭкзамен 2/obj/Debug/ConsoleЭкзамен_2.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../ConsoleЭкзамен 2/ConsoleЭкзамен 2/obj/Debug/ConsoleЭкзамен_2.exe" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ConsoleЭкзамен 2/ConsoleЭкзамен 2/obj/Debug/ConsoleЭкзамен_2.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../ConsoleЭкзамен 2/ConsoleЭкзамен 2/obj/Debug/ConsoleЭкзамен_2.pdb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,6 +43,7 @@
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
     &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
     &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;CodeLensConfigurable&quot;,
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   },
   &quot;keyToStringList&quot;: {
@@ -97,11 +93,25 @@
       <workItem from="1709207490204" duration="17000" />
       <workItem from="1709312926003" duration="361000" />
       <workItem from="1709387682378" duration="2165000" />
+      <workItem from="1709472365231" duration="913000" />
+      <workItem from="1709473294531" duration="7749000" />
+      <workItem from="1709551666344" duration="52000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
