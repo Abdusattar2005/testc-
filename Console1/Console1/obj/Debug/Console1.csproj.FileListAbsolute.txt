@@ -4,3 +4,9 @@
 /home/abdusattar/Desktop/RiderProjects1/Console1/Console1/obj/Debug/Console1.csproj.CoreCompileInputs.cache
 /home/abdusattar/Desktop/RiderProjects1/Console1/Console1/obj/Debug/Console1.exe
 /home/abdusattar/Desktop/RiderProjects1/Console1/Console1/obj/Debug/Console1.pdb
+/home/abdusattar/Desktop/Rider_Projects/Console1/Console1/bin/Debug/Console1.exe
+/home/abdusattar/Desktop/Rider_Projects/Console1/Console1/bin/Debug/Console1.pdb
+/home/abdusattar/Desktop/Rider_Projects/Console1/Console1/obj/Debug/Console1.csproj.AssemblyReference.cache
+/home/abdusattar/Desktop/Rider_Projects/Console1/Console1/obj/Debug/Console1.csproj.CoreCompileInputs.cache
+/home/abdusattar/Desktop/Rider_Projects/Console1/Console1/obj/Debug/Console1.exe
+/home/abdusattar/Desktop/Rider_Projects/Console1/Console1/obj/Debug/Console1.pdb

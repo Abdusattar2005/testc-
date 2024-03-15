@@ -23,8 +23,6 @@ class Program
         b = Convert.ToInt32(ff);
         int result = a * b;
         Console.WriteLine( result);
-        
-        
 
 
     }

@@ -34,18 +34,22 @@ namespace Console1
             if (monthNumber >= 3 && monthNumber <= 5)
             {
                 season = "весна";
+                Console.WriteLine(" март, апрель, май."); 
             }
             else if (monthNumber >= 6 && monthNumber <= 8)
             {
                 season = "лето";
+                Console.WriteLine("июль, июнь, Август."); 
             }
             else if (monthNumber >= 9 && monthNumber <= 11)
             {
                 season = "осень";
+                Console.WriteLine(" сентябрь, октябрь, ноябрь."); 
             }
-            else
+            else 
             {
                 season = "зима";
+                 Console.WriteLine(" декабрь, январь, февраль,."); 
             }
 
             Console.WriteLine($"Введенный месяц соответствует времени года: {season}.");
