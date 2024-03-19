@@ -8,37 +8,21 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="55f497e2-0c4f-4a8d-a493-d826cf13d637" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/../Console1/Console1/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../Console1/Console1/Program.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Console1/Console1/bin/Debug/Console1.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../Console1/Console1/bin/Debug/Console1.exe" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Console1/Console1/bin/Debug/Console1.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../Console1/Console1/bin/Debug/Console1.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Console1/Console1/obj/Debug/Console1.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../Console1/Console1/obj/Debug/Console1.csproj.FileListAbsolute.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Console1/Console1/obj/Debug/Console1.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../Console1/Console1/obj/Debug/Console1.exe" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Console1/Console1/obj/Debug/Console1.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../Console1/Console1/obj/Debug/Console1.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Console2/Console2/bin/Debug/Console2.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../Console2/Console2/bin/Debug/Console2.exe" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Console2/Console2/bin/Debug/Console2.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../Console2/Console2/bin/Debug/Console2.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Console2/Console2/obj/Debug/Console2.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../Console2/Console2/obj/Debug/Console2.csproj.FileListAbsolute.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Console2/Console2/obj/Debug/Console2.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../Console2/Console2/obj/Debug/Console2.exe" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Console2/Console2/obj/Debug/Console2.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../Console2/Console2/obj/Debug/Console2.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Console4/Console4/bin/Debug/Console4.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../Console4/Console4/bin/Debug/Console4.exe" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Console4/Console4/bin/Debug/Console4.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../Console4/Console4/bin/Debug/Console4.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Console4/Console4/obj/Debug/Console4.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../Console4/Console4/obj/Debug/Console4.csproj.FileListAbsolute.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Console4/Console4/obj/Debug/Console4.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../Console4/Console4/obj/Debug/Console4.exe" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Console4/Console4/obj/Debug/Console4.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../Console4/Console4/obj/Debug/Console4.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Console9/Console9/bin/Debug/Console9.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../Console9/Console9/bin/Debug/Console9.exe" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Console9/Console9/obj/Debug/Console9.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../Console9/Console9/obj/Debug/Console9.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ConsoleРабочий/Properties/Product.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.ConsoleРабочий/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.ConsoleРабочий/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ConsoleРабочий/ConsoleРабочий.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/ConsoleРабочий/ConsoleРабочий.csproj" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ConsoleРабочий/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/ConsoleРабочий/Program.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ConsoleРабочий/bin/Debug/ConsoleРабочий.exe" beforeDir="false" afterPath="$PROJECT_DIR$/ConsoleРабочий/bin/Debug/ConsoleРабочий.exe" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ConsoleРабочий/bin/Debug/ConsoleРабочий.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/ConsoleРабочий/bin/Debug/ConsoleРабочий.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ConsoleРабочий/obj/Debug/ConsoleРабочий.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/ConsoleРабочий/obj/Debug/ConsoleРабочий.csproj.CoreCompileInputs.cache" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ConsoleРабочий/obj/Debug/ConsoleРабочий.exe" beforeDir="false" afterPath="$PROJECT_DIR$/ConsoleРабочий/obj/Debug/ConsoleРабочий.exe" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ConsoleРабочий/obj/Debug/ConsoleРабочий.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/ConsoleРабочий/obj/Debug/ConsoleРабочий.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ConsoleЭкзамен 2/ConsoleЭкзамен 2/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../ConsoleЭкзамен 2/ConsoleЭкзамен 2/Program.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ConsoleЭкзамен 2/ConsoleЭкзамен 2/bin/Debug/ConsoleЭкзамен_2.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../ConsoleЭкзамен 2/ConsoleЭкзамен 2/bin/Debug/ConsoleЭкзамен_2.exe" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ConsoleЭкзамен 2/ConsoleЭкзамен 2/bin/Debug/ConsoleЭкзамен_2.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../ConsoleЭкзамен 2/ConsoleЭкзамен 2/bin/Debug/ConsoleЭкзамен_2.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ConsoleЭкзамен 2/ConsoleЭкзамен 2/obj/Debug/ConsoleЭкзамен_2.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../ConsoleЭкзамен 2/ConsoleЭкзамен 2/obj/Debug/ConsoleЭкзамен_2.exe" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ConsoleЭкзамен 2/ConsoleЭкзамен 2/obj/Debug/ConsoleЭкзамен_2.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../ConsoleЭкзамен 2/ConsoleЭкзамен 2/obj/Debug/ConsoleЭкзамен_2.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ConsoleЭкзамен/ConsoleЭкзамен.sln" beforeDir="false" afterPath="$PROJECT_DIR$/../ConsoleЭкзамен/ConsoleЭкзамен.sln" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ConsoleЭкзамен/ConsoleЭкзамен/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../ConsoleЭкзамен/ConsoleЭкзамен/Program.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../ConsoleЭкзамен/ConsoleЭкзамен/bin/Debug/ConsoleЭкзамен.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../ConsoleЭкзамен/ConsoleЭкзамен/bin/Debug/ConsoleЭкзамен.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ConsoleЭкзамен/ConsoleЭкзамен/bin/Debug/ConsoleЭкзамен.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../ConsoleЭкзамен/ConsoleЭкзамен/bin/Debug/ConsoleЭкзамен.pdb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../ConsoleЭкзамен/ConsoleЭкзамен/obj/Debug/ConsoleЭкзамен.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../ConsoleЭкзамен/ConsoleЭкзамен/obj/Debug/ConsoleЭкзамен.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ConsoleЭкзамен/ConsoleЭкзамен/obj/Debug/ConsoleЭкзамен.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../ConsoleЭкзамен/ConsoleЭкзамен/obj/Debug/ConsoleЭкзамен.pdb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,6 +32,11 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/../ConsoleЭкзамен/project/Properties/AssemblyInfo.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../ConsoleЭкзамен/project/obj/Debug/.NETFramework,Version=v4.8.AssemblyAttributes.cs" root0="SKIP_HIGHLIGHTING" />
+  </component>
+  <component name="MetaFilesCheckinStateConfiguration" checkMetaFiles="true" />
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 8
 }</component>
@@ -128,12 +117,18 @@
       <workItem from="1710053368922" duration="107000" />
       <workItem from="1710234009046" duration="1124000" />
       <workItem from="1710419038491" duration="609000" />
+      <workItem from="1710505185018" duration="479000" />
+      <workItem from="1710598705690" duration="2202000" />
+      <workItem from="1710678371352" duration="49000" />
+      <workItem from="1710698114559" duration="16000" />
+      <workItem from="1710853004808" duration="902000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="UnityCheckinConfiguration" checkUnsavedScenes="true" />
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
       <map>

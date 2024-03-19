@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Globalization;
 
 namespace Угадайка
 {
@@ -6,31 +7,47 @@ namespace Угадайка
     {
         public static void Main(string[] args)
         {
-            Random random = new Random();
-            int загаданноеЧисло = random.Next(1, 101);
-            int попытки = 0;
+           
+            Console.WriteLine("Hello world");
+            Console.WriteLine("Hello world");
+            Console.ReadLine();
 
-            Console.WriteLine("Привет! Я загадал число от 1 до 100. Попробуй угадать!");
 
-            do
+
+
+
+            /*int a = 10;
+
+            int d = 3;
+
+            double result = (double) a+5 - d;
+            Console.WriteLine(result);*/
+
+
+            /*int result = 2 + 3 * 2;
+            Console.WriteLine(result);*/
+
+
+
+
+
+
+
+            /*string str = "55675";
+            int a;
+            bool result = int.TryParse(str, out a);
+
+            if (result)
             {
-                Console.Write("Введи свой вариант: ");
-                int вариантЧисла = Convert.ToInt32(Console.ReadLine());
-                попытки++;
+                Console.WriteLine("ssssss");
+            }
+            else
+            {
+                Console.WriteLine("ccccccccc");
+            }*/
 
-                if (вариантЧисла < загаданноеЧисло)
-                {
-                    Console.WriteLine("Моё число больше.");
-                }
-                else if (вариантЧисла > загаданноеЧисло)
-                {
-                    Console.WriteLine("Моё число меньше.");
-                }
-                else
-                {
-                    Console.WriteLine($"Поздравляю! Ты угадал число {загаданноеЧисло} за {попытки} попыток.");
-                }
-            } while (true);
+
+
         }
     }
 }
