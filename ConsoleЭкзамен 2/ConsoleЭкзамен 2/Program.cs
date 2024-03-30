@@ -19,8 +19,7 @@ class Program
         f = Convert.ToInt32(ff);
         int result = a *(d +f);
         Console.WriteLine(result);
-
-
+      
 
     }
 }

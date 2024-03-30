@@ -7,7 +7,7 @@ class Program
 {
     static void Main()
     {
-        
+        string result = "Apple";
         Product product = new Product();
         product.Name = "Apple";
         product.Price = 0.99m;
@@ -28,19 +28,25 @@ class Program
 
         foreach (var p in products)
         {
-            Console.WriteLine("Name ");
+            Console.WriteLine("Name product:");
+            product.Name= Console.ReadLine();
+            Console.WriteLine(p.Name);
             Console.WriteLine(p.Price);
             Console.WriteLine(p.Articul);
             Console.WriteLine(p.Description);
-            Console.WriteLine();
+            
+            
         }
         foreach (var p in product2s)
         {
             
-            Console.WriteLine("Name:  ");
+            Console.WriteLine("Name product: ");
+             product2.Name= Console.ReadLine();
+            Console.WriteLine(p.Name);
             Console.WriteLine(p.Price);
             Console.WriteLine(p.Articul);
             Console.WriteLine(p.Description);
+            
         }
     }
 }

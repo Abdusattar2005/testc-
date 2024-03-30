@@ -2,29 +2,94 @@
 
 class Program
 {
-    static void Main()
+    static string[] expenseCategories = { "Продукты", "Транспорт", "Учеба", "Жилье", "Развлечения" };
+    static double[] expenses = new double[expenseCategories.Length];
+    static double budget;
+
+    static void Main(string[] args)
     {
-        Console.WriteLine("Введите оценку (1-5) либо балл за экзамен (0-100):");
+        Console.WriteLine("Добро пожаловать в Менеджер Расходов!");
 
-        string userInput = Console.ReadLine();
+        Console.Write("Введите ваш стартовый бюджет: ");
+        budget = double.Parse(Console.ReadLine());
 
-        // Проверка на корректность ввода числа
-        if (int.TryParse(userInput, out int score))
+        bool exit = false;
+        while (!exit)
         {
-            // Конвертация оценки в американскую оценку успеваемости
-            char grade = (score >= 0 && score <= 100) 
-                ? (score >= 90) ? 'A' 
-                : (score >= 80) ? 'B' 
-                : (score >= 70) ? 'C' 
-                : (score >= 60) ? 'D' 
-                : 'F'
-                : throw new ArgumentException("Оценка должна быть в диапазоне от 0 до 100");
-            
-            Console.WriteLine($"Американская оценка: {grade}");
+            Console.WriteLine("\nВыберите действие:");
+            Console.WriteLine("1. Просмотреть категории расходов");
+            Console.WriteLine("2. Добавить расход");
+            Console.WriteLine("3. Просмотреть текущий бюджет и расходы");
+            Console.WriteLine("4. Выйти");
+
+            Console.Write("Ваш выбор: ");
+            int choice = int.Parse(Console.ReadLine());
+
+            switch (choice)
+            {
+                case 1:
+                    ShowExpenseCategories();
+                    break;
+                case 2:
+                    AddExpense();
+                    break;
+                case 3:
+                    ShowBudgetAndExpenses();
+                    break;
+                case 4:
+                    exit = true;
+                    Console.WriteLine("До свидания!");
+                    break;
+                default:
+                    Console.WriteLine("Неверный выбор. Попробуйте снова.");
+                    break;
+            }
+        }
+    }
+
+    static void ShowExpenseCategories()
+    {
+        Console.WriteLine("\nКатегории расходов:");
+        for (int i = 0; i < expenseCategories.Length; i++)
+        {
+            Console.WriteLine($"{i + 1}. {expenseCategories[i]}");
+        }
+    }
+
+    static void AddExpense()
+    {
+        Console.WriteLine("\nВведите номер категории расходов:");
+        int categoryIndex = int.Parse(Console.ReadLine()) - 1;
+
+        if (categoryIndex >= 0 && categoryIndex < expenseCategories.Length)
+        {
+            Console.Write("Введите сумму расхода: ");
+            double amount = double.Parse(Console.ReadLine());
+
+            if (amount <= budget)
+            {
+                expenses[categoryIndex] += amount;
+                budget -= amount;
+                Console.WriteLine("Расход успешно добавлен!");
+            }
+            else
+            {
+                Console.WriteLine("Недостаточно средств!");
+            }
         }
         else
         {
-            Console.WriteLine("Некорректный ввод. Пожалуйста, введите число.");
+            Console.WriteLine("Неверный номер категории!");
+        }
+    }
+
+    static void ShowBudgetAndExpenses()
+    {
+        Console.WriteLine($"\nТекущий бюджет: {budget}");
+        Console.WriteLine("Расходы по категориям:");
+        for (int i = 0; i < expenseCategories.Length; i++)
+        {
+            Console.WriteLine($"{expenseCategories[i]}: {expenses[i]}");
         }
     }
 }

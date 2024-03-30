@@ -7,12 +7,37 @@ namespace Угадайка
     {
         public static void Main(string[] args)
         {
-           
-            Console.WriteLine("Hello world");
-            Console.WriteLine("Hello world");
-            Console.ReadLine();
+            {
+                bool ffff = true;
+                bool ssss = false;
+                if (ffff || ssss)
+                {
+                    Console.WriteLine("dddddddddd");
+                }
+                else
+                {
+                    Console.WriteLine("rrrrrrrrr");
+                }
+            }
+            
+            
+            /*
+            {
+                int a = 5;
+                int b = 4;
+                bool result = a != b;
+                Console.WriteLine(result);
+                if (result)
 
-
+                {
+                    Console.WriteLine("туура");
+                }
+                else
+                {
+                    Console.WriteLine("ката");
+                }
+            }
+            */
 
 
 
