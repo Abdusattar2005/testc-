@@ -7,7 +7,8 @@ class Program
         Console.WriteLine("Привет!");
 
         float age = GetAge();
-        Console.WriteLine($"Вам {age} лет.");
+        Console.WriteLine($"Вам {age} лет..");
+        
 
         float height = GetHeight(age);
         Console.WriteLine($"Вам {age} лет, ваш рост: {height}");
